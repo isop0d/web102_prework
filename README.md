@@ -4,7 +4,7 @@ Submitted by: *Stefan Fernandez*
 
 *Sea Monster Crowdfunding* is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 8 hours spent in total
+Time spent: 7-8 hours spent in total
 
 ## Required Features
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 - Dark Mode Feature!
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
 - Add a search bar
 - Add a way to check other stats of each game upon click/hover
 ## Video Walkthrough
@@ -38,10 +38,7 @@ GIF created with https://www.screentogif.com/
 
 Describe any challenges encountered while building the app.
 
-My main challenges were my inexperience with javascript. I spent most of my time on this project just 
-trying to relearn alot of javascript syntax as I have been using mainly c++ in school. I have been 
-studying a decent amount of html and css so the parts that pertained to those languages where not hard on me. However it took a decent amount of time relearning javascript aswell as learning new 
-ways to implement javascript with html and css. I found myself needing to reread the challenge information section many times just to remember syntax. Despite these challenges, I feel more confident now than before doing this project.
+My main challenges while building this app were my inexperience with javascript. In school I have only learnt c++ and outside of school I had been studying html and css so the parts that pertained to those languages where not too hard for me. The majority of the time spent on this project was me relearning javascript aswell as learning new ways to implement javascript with html and css. I found myself needing to reread the challenge information section many times even just to remember syntax. Despite these challenges, I feel more confident now than before doing this project.
 
 ## License
 

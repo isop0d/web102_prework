@@ -20,11 +20,10 @@ body {
 }
 
 .darkmode{
-    --word-color: #e0e0e0;                
-    --header-background-color: #1f2a36;   
-    --stats-card-color: #2d3c4b;          
-    --background-color: #121a24; 
-    --button-color: lightgray;
+    --word-color: #f2f2ff;
+    --header-background-color: #2a2e4b;
+    --stats-card-color: #393d5a;
+    --background-color: #1e2133;
 }
 
 #tentacles {
